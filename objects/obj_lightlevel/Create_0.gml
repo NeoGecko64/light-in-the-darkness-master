@@ -1,0 +1,1 @@
+global.countdownlight = 10;

@@ -1,0 +1,1 @@
+if (DEBUG) {draw_set_font(Font1); draw_set_valign(fa_left); draw_set_halign(fa_top);}
